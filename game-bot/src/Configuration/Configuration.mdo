@@ -55,11 +55,13 @@
   <commonModules>CommonModule.ТелеграмПростаяВикторина</commonModules>
   <commonModules>CommonModule.ТелеграмЭхо</commonModules>
   <commonModules>CommonModule.ТелеграмТестСРасшифровкой</commonModules>
+  <commonModules>CommonModule.ТелеграмВиселица</commonModules>
   <constants>Constant.ИдентификаторПоследнегоОбновления</constants>
   <constants>Constant.РежимРаботыБота</constants>
   <constants>Constant.ТокенТелеграмБота</constants>
   <constants>Constant.ПриветствиеТестаСРасшифровкой</constants>
   <constants>Constant.ОбщиеРекомендацииТестаСРасшифровкой</constants>
+  <constants>Constant.ПриветствиеВиселицы</constants>
   <catalogs>Catalog.ВопросыПростойВикторины</catalogs>
   <catalogs>Catalog.ОчередьОбработкиСообщений</catalogs>
   <catalogs>Catalog.ТелеграмЧаты</catalogs>
@@ -67,9 +69,12 @@
   <catalogs>Catalog.ВопросыТестаСРасшифровкой</catalogs>
   <catalogs>Catalog.РасшифровкиТестаСРасшифровкой</catalogs>
   <documents>Document.ПрохождениеТестаСРасшифровкой</documents>
+  <documents>Document.СессияВиселицы</documents>
   <enums>Enum.РежимРаботыБота</enums>
   <enums>Enum.СтатусыТестаСРасшифровкой</enums>
+  <enums>Enum.СтатусИгровойСессии</enums>
   <dataProcessors>DataProcessor.ОбработкаВходящихСообщений</dataProcessors>
   <dataProcessors>DataProcessor.НастройкаТестаСРасшифровкой</dataProcessors>
   <informationRegisters>InformationRegister.СтатусыТестаСРасшифровкой</informationRegisters>
+  <informationRegisters>InformationRegister.СессииУчастников</informationRegisters>
 </mdclass:Configuration>

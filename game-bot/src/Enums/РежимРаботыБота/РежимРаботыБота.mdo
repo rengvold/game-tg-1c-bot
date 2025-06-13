@@ -33,4 +33,11 @@
       <value>Тест с расшифровкой</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="534e47d8-de38-4caf-86e2-34a8923db7a1">
+    <name>Виселица</name>
+    <synonym>
+      <key>ru</key>
+      <value>Виселица</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
